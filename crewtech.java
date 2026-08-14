@@ -11,4 +11,7 @@ public class crewtech {
 		System.out.println("manuals team size 4");
 	}
 
-}
+	}
+
+crewtech obj=new crewtech();
+//changed//
