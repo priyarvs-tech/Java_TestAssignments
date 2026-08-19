@@ -1,0 +1,9 @@
+Practice 2 — Parameters & Return Values
+Create a Calculator class with:
+add(int a, int b)
+subtract(int a, int b)
+multiply(int a, int b)
+divide(int a, int b)
+ 
+ 
+ 
