@@ -1,4 +1,11 @@
 public class crewtech {
+	public static void main(String[]args) {
+	crewtech obj=new crewtech();
+	obj.myflight();
+	obj.linkapps();
+	obj.manuals();
+	}
+	
 	public void myflight() {
 		System.out.println("myflight team size 4");
 	}
@@ -13,7 +20,5 @@ public class crewtech {
 
 	}
 
-crewtech obj=new crewtech();
-//changed//  
 
-//new change//
+
