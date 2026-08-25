@@ -1,3 +1,4 @@
+//this is practice 2 code//
 public class Assignment2 {
 	public static void main(String[]args) {
 	Assignment2 obj = new Assignment2();
