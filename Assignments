@@ -5,5 +5,11 @@ subtract(int a, int b)
 multiply(int a, int b)
 divide(int a, int b)
  
- 
+  
+Practice 3 - 
+Shopping Cart
+Pass price, quantity, and discount as parameters.
+Calculate and return the final amount.
+grocery - 10%
+clothes - 5%
  
